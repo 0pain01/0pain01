@@ -37,14 +37,15 @@
 
 ### ⚙ Languages and Tools  I use :
 
-<img align="left" alt="HTML5" width="30px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
-<img align="left" alt="CSS3" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/css3-seeklogo.com.svg" />
+<img align="left" alt="HTML5" width="27px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
+<img align="left" alt="CSS3" width="27px" src="https://github.com/0pain01/0pain01/blob/master/resources/css3-seeklogo.com.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/logo-javascript.svg" />
 <img align="left" alt="C++" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/c%2B%2B.svg" />
 <img align="left" alt="python" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/python-5.svg" />
 <img align="left" alt="java" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/java-icon.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/github-icon-1.svg" />
 
+<br />
 <br />
 <br />
 <br />
