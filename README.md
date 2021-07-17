@@ -35,9 +35,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
 ### ⚙ Languages and Tools  I use :
 
 <img align="left" alt="HTML5" width="30px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
