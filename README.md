@@ -47,7 +47,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/github-icon-1.svg" />
 <img align="left" alt="python" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/python-5.svg" />
 <img align="left" alt="java" width="30px" src="https://github.com/0pain01/0pain01/blob/master/resources/java-icon.svg" />
-
+<br />
 <br />
 <br />
 <br />
