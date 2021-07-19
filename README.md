@@ -58,6 +58,7 @@
 <img align="left" alt="jupyter" width="26px" src="https://github.com/0pain01/0pain01/blob/master/resources/800px-Jupyter_logo.svg" />
 <img align="left" alt="pycharm" width="26px" src="https://github.com/0pain01/0pain01/blob/master/resources/PyCharm_Icon.svg" />
 <br />
+<br />
 
 <img align="right" src="https://github.com/0pain01/0pain01/blob/master/resources/coding.gif" alt="Coder GIF" height="280">
 
