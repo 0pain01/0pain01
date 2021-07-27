@@ -65,4 +65,5 @@
 ---
 
 ## 💳 Language Card
-<img align="center" alt="Pankaj's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=0pain01&&layout=compact" />
+<img align="center" alt="Pankaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+" />
