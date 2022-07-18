@@ -5,7 +5,7 @@
 
 ## I'm a Student and AI/ML and IoT Enthusiast!
 
-◾ pursuing BTech 3rd year from Graphic Era University, Dehradun
+◾ pursuing BTech 4th year from Graphic Era University, Dehradun
 <br/>
 ◾ Branch: Computer Engineering
 <br/>
