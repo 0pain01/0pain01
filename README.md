@@ -9,9 +9,7 @@
 <br/>
 ◾ Branch: Computer Engineering
 <br/>
-◾ 💻 Currently working as (Deputy Manager) Associate Tech Engineer in Axis Bank.
-<br/>
-◾ Tech Stack I worked on are : C++, JAVA, PYTHON, SPRING BOOT, ANGULAR, JAVASCRIPT, HTML/CSS, AWS , SQL  and some data management tools.
+◾ 💻 Currently working as Associate Tech Engineer in Axis Bank.
 <br/>
 ◾ My personal web site : <a href="https://0pain01.github.io/" target="_blank">click</a>
 <br/>
