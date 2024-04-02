@@ -3,15 +3,15 @@
 
 <img align="right" src="https://github.com/0pain01/0pain01/blob/master/resources/coding2.gif" alt="Coder GIF" height="280">
 
-## I'm a Student and AI/ML and IoT Enthusiast!
+## Software Engineer!
 
-◾ pursuing BTech 4th year from Graphic Era University, Dehradun
+◾ BTech Graduate from Graphic Era University, Dehradun
 <br/>
 ◾ Branch: Computer Engineering
 <br/>
-◾ 💻 Currently learning OpenCV, HTML,CSS.
+◾ 💻 Currently working as (Deputy Manager) Associate Tech Engineer in Axis Bank.
 <br/>
-◾ 🏏 I love to paint and play video games.
+◾ Tech Stack I worked on are : C++, JAVA, PYTHON, SPRING BOOT, ANGULAR, JAVASCRIPT, HTML/CSS, AWS , SQL  and some data management tools.
 <br/>
 ◾ My personal web site : <a href="https://0pain01.github.io/" target="_blank">click</a>
 <br/>
